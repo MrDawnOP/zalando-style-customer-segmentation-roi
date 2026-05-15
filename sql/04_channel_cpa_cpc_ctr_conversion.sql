@@ -1,0 +1,2 @@
+-- Channel-level CPA, CPC, CTR and conversion rate
+SELECT channel, ROUND(SUM(spend), 2) AS total_spend, SUM(impressions) AS impressions, SUM(clicks) AS clicks, SUM(conversions) AS conversions, ROUND(SUM(spend) / NULLIF(SUM(conversions), 0), 2) AS cpa, ROUND(SUM(spend) / NULLIF(SUM(clicks), 0), 2) AS cpc, ROUND(SUM(clicks) * 1.0 / NULLIF(SUM(impressions), 0), 4) AS ctr, ROUND(SUM(conversions) * 1.0 / NULLIF(SUM(clicks), 0), 4) AS conversion_rate FROM campaigns GROUP BY channel ORDER BY cpa ASC;

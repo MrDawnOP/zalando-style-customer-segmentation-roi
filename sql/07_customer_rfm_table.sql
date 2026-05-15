@@ -1,0 +1,2 @@
+-- Customer RFM table
+WITH customer_orders AS (SELECT customer_id, MAX(order_date) AS last_purchase_date, COUNT(order_id) AS frequency, ROUND(SUM(revenue), 2) AS monetary FROM orders GROUP BY customer_id) SELECT c.customer_id, c.country, c.age_group, c.gender, CAST(julianday('2026-01-01') - julianday(co.last_purchase_date) AS INTEGER) AS recency, co.frequency, co.monetary, c.customer_segment, c.rfm_score FROM customers c JOIN customer_orders co ON c.customer_id = co.customer_id ORDER BY monetary DESC;

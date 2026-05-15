@@ -1,0 +1,8 @@
+channel,current_spend,recommended_spend,reason_for_change,expected_business_impact,increase_decrease_amount
+Affiliate,440879.83,484509.57,Positive partner-led acquisition economics with moderate scalability.,Expected to add incremental orders while keeping CPA controlled.,43629.74
+Display Ads,616426.95,464522.7,Lowest conversion efficiency and high spend relative to attributed revenue.,Lower awareness waste and protect margin.,-151904.25
+Email,88661.76,113211.1,High ROAS and strong retention/intent efficiency; scale carefully due to audience ceiling.,Expected to lift profitable repeat revenue and reduce blended CPA.,24549.34
+Google Search,714439.66,837483.79,"Higher CPA than retention channels, but stronger purchase intent and healthy conversion quality.",Expected to capture high-intent demand and improve qualified acquisition.,123044.13
+Meta Ads,836225.53,770191.87,High traffic volume but weaker conversion quality and lower ROI than high-intent channels.,Reduce wasted spend and reallocate to retention/high-intent demand.,-66033.66
+Organic Search,128240.88,158380.36,High ROAS and strong retention/intent efficiency; scale carefully due to audience ceiling.,Expected to lift profitable repeat revenue and reduce blended CPA.,30139.48
+TikTok Ads,600596.99,597172.21,"Useful for new customer acquisition, but lower retention and weaker immediate ROAS.",Keep testing creatives while reducing inefficient prospecting pockets.,-3424.78

@@ -1,0 +1,9 @@
+{
+  "project_title": "Zalando-Style Customer Segmentation and Marketing ROI Analysis",
+  "seed": 42,
+  "analysis_date": "2026-01-01",
+  "customers": 10000,
+  "orders": 50000,
+  "campaigns": 120,
+  "generated_at": "2026-05-15T18:23:14.347727Z"
+}

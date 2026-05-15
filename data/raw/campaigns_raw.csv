@@ -1,0 +1,121 @@
+campaign_id,campaign_name,channel,campaign_objective,start_date,end_date,spend,impressions,clicks,target_audience,country,device_type,conversions,revenue_attributed
+CMP-001,Google Search | Back to Work | 001,Google Search,High-intent acquisition,2024-11-25,2025-02-08,49222.74,792835,38611,New shoppers,Germany,Desktop,318,29209.0
+CMP-002,TikTok Ads | Holiday Drop | 002,TikTok Ads,New customer acquisition,2025-03-30,2025-05-22,18450.87,566440,28322,VIP customers,UK,Mobile,111,8517.33
+CMP-003,TikTok Ads | Back to Work | 003,TikTok Ads,New customer acquisition,2025-03-22,2025-05-26,26472.5,1445622,55072,Premium shoppers,Italy,Mobile,200,16534.6
+CMP-004,Affiliate | Spring Edit | 004,Affiliate,Partner-led acquisition,2025-05-14,2025-08-10,30026.27,1164513,36815,New shoppers,Netherlands,Mobile,120,9646.51
+CMP-005,Meta Ads | Spring Edit | 005,Meta Ads,Prospecting and retargeting,2025-04-04,2025-05-09,40357.4,1416178,45530,Young fashion buyers,Italy,Mobile,466,39998.38
+CMP-006,Affiliate | Beauty Boost | 006,Affiliate,Partner-led acquisition,2024-07-20,2024-09-22,24770.65,1159768,35952,New shoppers,France,Mobile,539,48310.87
+CMP-007,Email | VIP Retention | 007,Email,Retention and lifecycle marketing,2025-03-07,2025-04-07,1954.84,414500,20725,Discount-sensitive customers,UK,Mobile,287,24855.0
+CMP-008,Google Search | Back to Work | 008,Google Search,High-intent acquisition,2024-07-11,2024-08-02,63052.28,1202222,57153,VIP customers,France,Tablet,82,7372.45
+CMP-009,Google Search | Beauty Boost | 009,Google Search,High-intent acquisition,2024-04-15,2024-06-15,40254.0,740488,28446,VIP customers,Germany,Desktop,279,21978.39
+CMP-010,TikTok Ads | Spring Edit | 010,TikTok Ads,New customer acquisition,2024-01-07,2024-03-30,17609.96,953365,33299,Returning customers,Italy,Desktop,79,5840.53
+CMP-011,Email | Summer Sale | 011,Email,Retention and lifecycle marketing,2025-09-05,2025-11-18,1986.51,363760,18188,Discount-sensitive customers,UK,Desktop,154,13617.64
+CMP-012,Affiliate | VIP Retention | 012,Affiliate,Partner-led acquisition,2024-10-27,2025-01-12,17562.75,514088,20889,Returning customers,Poland,Mobile,92,7359.7
+CMP-013,Affiliate | Beauty Boost | 013,Affiliate,Partner-led acquisition,2024-12-14,2025-01-07,20747.62,955168,37424,Premium shoppers,Netherlands,Mobile,171,13278.3
+CMP-014,Meta Ads | Sneaker Week | 014,Meta Ads,Prospecting and retargeting,2024-11-02,2024-12-15,68320.75,2010644,86797,Young fashion buyers,UK,Tablet,479,40623.06
+CMP-015,Email | Back to Work | 015,Email,Retention and lifecycle marketing,2025-09-10,2025-10-17,2096.13,266620,13331,Discount-sensitive customers,Netherlands,Mobile,154,13343.24
+CMP-016,Organic Search | VIP Retention | 016,Organic Search,SEO-led acquisition,2024-07-02,2024-08-13,9107.94,1089360,54468,New shoppers,Germany,Mobile,542,48756.83
+CMP-017,Organic Search | Holiday Drop | 017,Organic Search,SEO-led acquisition,2024-01-12,2024-03-20,3535.58,396300,19815,Returning customers,Spain,Desktop,376,35275.59
+CMP-018,Meta Ads | Premium Basics | 018,Meta Ads,Prospecting and retargeting,2024-02-25,2024-05-07,29863.47,1136091,38487,Discount-sensitive customers,Poland,Mobile,402,33115.53
+CMP-019,Affiliate | Sneaker Week | 019,Affiliate,Partner-led acquisition,2025-09-19,2025-12-13,9671.21,328251,12870,New shoppers,UK,Tablet,129,10465.46
+CMP-020,Display Ads | Beauty Boost | 020,Display Ads,Awareness and remarketing,2024-04-18,2024-06-19,72249.3,15672422,138528,New shoppers,Germany,Desktop,198,16675.17
+CMP-021,Display Ads | Spring Edit | 021,Display Ads,Awareness and remarketing,2024-06-12,2024-08-27,33027.88,6374118,61862,VIP customers,France,Desktop,70,5970.02
+CMP-022,Email | Beauty Boost | 022,Email,Retention and lifecycle marketing,2025-09-20,2025-12-10,4513.45,543800,27190,Young fashion buyers,Germany,Mobile,714,61223.73
+CMP-023,Meta Ads | VIP Retention | 023,Meta Ads,Prospecting and retargeting,2024-11-06,2025-01-07,30770.39,932573,27609,Premium shoppers,Germany,Mobile,290,24498.7
+CMP-024,Organic Search | Beauty Boost | 024,Organic Search,SEO-led acquisition,2025-01-12,2025-02-12,3481.67,404160,20208,New shoppers,Italy,Desktop,147,13402.35
+CMP-025,Meta Ads | Premium Basics | 025,Meta Ads,Prospecting and retargeting,2025-06-08,2025-07-26,41079.47,1329702,47870,New shoppers,Germany,Mobile,466,39667.8
+CMP-026,Meta Ads | Spring Edit | 026,Meta Ads,Prospecting and retargeting,2024-05-28,2024-07-05,56273.96,1993373,61905,Premium shoppers,Germany,Desktop,193,16134.86
+CMP-027,Organic Search | Premium Basics | 027,Organic Search,SEO-led acquisition,2025-03-26,2025-04-22,9670.39,1034466,49662,Young fashion buyers,Italy,Desktop,270,25234.22
+CMP-028,Display Ads | Beauty Boost | 028,Display Ads,Awareness and remarketing,2025-04-27,2025-05-27,50019.81,5831567,88514,VIP customers,Italy,Mobile,329,27633.71
+CMP-029,Email | Premium Basics | 029,Email,Retention and lifecycle marketing,2024-02-09,2024-03-10,4688.5,737840,36892,VIP customers,UK,Mobile,416,35875.44
+CMP-030,Affiliate | Beauty Boost | 030,Affiliate,Partner-led acquisition,2024-04-29,2024-07-07,17015.66,456135,19151,Returning customers,France,Desktop,92,7455.4
+CMP-031,Meta Ads | Summer Sale | 031,Meta Ads,Prospecting and retargeting,2024-11-15,2025-01-20,70263.51,2396955,87324,Young fashion buyers,Germany,Desktop,327,27896.63
+CMP-032,Google Search | Premium Basics | 032,Google Search,High-intent acquisition,2024-11-24,2025-02-13,24208.83,296200,14810,New shoppers,Poland,Mobile,624,51658.66
+CMP-033,Affiliate | VIP Retention | 033,Affiliate,Partner-led acquisition,2025-09-18,2025-12-15,30623.87,789339,33437,Premium shoppers,UK,Mobile,773,68922.93
+CMP-034,Email | Holiday Drop | 034,Email,Retention and lifecycle marketing,2024-02-02,2024-02-29,5698.01,1076000,53800,VIP customers,France,Desktop,658,57408.19
+CMP-035,Meta Ads | Beauty Boost | 035,Meta Ads,Prospecting and retargeting,2025-08-23,2025-11-07,51529.19,2997794,96438,New shoppers,Germany,Desktop,437,36524.43
+CMP-036,TikTok Ads | Beauty Boost | 036,TikTok Ads,New customer acquisition,2025-04-20,2025-06-09,42972.86,1153300,57665,Young fashion buyers,UK,Mobile,197,16037.49
+CMP-037,Organic Search | Sneaker Week | 037,Organic Search,SEO-led acquisition,2024-12-13,2025-01-25,3839.7,399080,19954,VIP customers,Spain,Mobile,836,73876.48
+CMP-038,TikTok Ads | Spring Edit | 038,TikTok Ads,New customer acquisition,2025-09-11,2025-12-06,43212.06,1154160,57708,Young fashion buyers,Poland,Mobile,222,18908.45
+CMP-039,TikTok Ads | Premium Basics | 039,TikTok Ads,New customer acquisition,2024-06-25,2024-09-13,37482.96,1803840,90192,New shoppers,France,Desktop,458,38369.47
+CMP-040,TikTok Ads | Sneaker Week | 040,TikTok Ads,New customer acquisition,2024-10-08,2024-11-18,30341.92,1089300,54465,Young fashion buyers,Germany,Tablet,104,8337.03
+CMP-041,Organic Search | Premium Basics | 041,Organic Search,SEO-led acquisition,2024-01-29,2024-04-20,4913.22,504200,25210,New shoppers,Netherlands,Mobile,772,64744.72
+CMP-042,Google Search | Back to Work | 042,Google Search,High-intent acquisition,2024-06-09,2024-07-16,24722.03,353720,17686,Discount-sensitive customers,Germany,Mobile,312,25779.56
+CMP-043,Affiliate | Summer Sale | 043,Affiliate,Partner-led acquisition,2024-04-12,2024-05-06,25359.98,1648957,45943,New shoppers,Spain,Desktop,209,16823.38
+CMP-044,Email | Premium Basics | 044,Email,Retention and lifecycle marketing,2024-03-19,2024-06-02,6296.28,846960,42348,Discount-sensitive customers,Netherlands,Mobile,685,61692.04
+CMP-045,Meta Ads | Sneaker Week | 045,Meta Ads,Prospecting and retargeting,2025-06-15,2025-08-26,33582.49,1024820,42230,Discount-sensitive customers,Germany,Mobile,673,57272.17
+CMP-046,Affiliate | Beauty Boost | 046,Affiliate,Partner-led acquisition,2024-01-03,2024-01-26,32871.93,1535483,68098,Returning customers,Poland,Mobile,293,23591.93
+CMP-047,Organic Search | Premium Basics | 047,Organic Search,SEO-led acquisition,2024-12-20,2025-03-05,7909.47,829740,41487,Returning customers,France,Desktop,1611,144503.95
+CMP-048,Affiliate | VIP Retention | 048,Affiliate,Partner-led acquisition,2024-06-17,2024-08-22,34396.05,1204430,44688,VIP customers,Germany,Mobile,451,39115.09
+CMP-049,Google Search | VIP Retention | 049,Google Search,High-intent acquisition,2025-09-10,2025-10-20,32321.12,592059,28240,VIP customers,UK,Mobile,390,34909.66
+CMP-050,Meta Ads | Summer Sale | 050,Meta Ads,Prospecting and retargeting,2025-09-11,2025-11-12,41022.45,1542633,52604,Returning customers,France,Mobile,768,65885.74
+CMP-051,Display Ads | Back to Work | 051,Display Ads,Awareness and remarketing,2025-01-20,2025-03-31,56285.12,7425129,99032,Discount-sensitive customers,France,Mobile,333,28773.7
+CMP-052,Display Ads | Beauty Boost | 052,Display Ads,Awareness and remarketing,2024-12-09,2025-01-24,48713.4,5772079,70406,Discount-sensitive customers,France,Desktop,99,8279.75
+CMP-053,Organic Search | Spring Edit | 053,Organic Search,SEO-led acquisition,2024-06-09,2024-07-22,9617.75,954300,47715,Returning customers,UK,Mobile,1784,159197.65
+CMP-054,Google Search | Holiday Drop | 054,Google Search,High-intent acquisition,2025-04-22,2025-06-03,52906.55,1444496,41709,VIP customers,Germany,Mobile,608,53257.43
+CMP-055,TikTok Ads | Holiday Drop | 055,TikTok Ads,New customer acquisition,2025-03-12,2025-04-10,26596.77,907100,45355,Returning customers,Italy,Desktop,144,12835.17
+CMP-056,Organic Search | Holiday Drop | 056,Organic Search,SEO-led acquisition,2025-05-06,2025-06-23,7947.55,896960,44848,New shoppers,Germany,Desktop,125,11012.23
+CMP-057,Display Ads | Premium Basics | 057,Display Ads,Awareness and remarketing,2025-08-23,2025-11-21,51134.29,7433578,110651,VIP customers,UK,Mobile,205,17843.05
+CMP-058,Display Ads | Summer Sale | 058,Display Ads,Awareness and remarketing,2025-06-29,2025-09-10,44291.63,5600800,62833,Premium shoppers,Germany,Mobile,364,31941.16
+CMP-059,Affiliate | Back to Work | 059,Affiliate,Partner-led acquisition,2024-05-05,2024-06-15,22235.33,1183632,25594,Returning customers,Netherlands,Mobile,63,5626.49
+CMP-060,TikTok Ads | Sneaker Week | 060,TikTok Ads,New customer acquisition,2024-12-29,2025-03-05,38808.13,1229320,61466,Discount-sensitive customers,UK,Desktop,116,9310.31
+CMP-061,Display Ads | Back to Work | 061,Display Ads,Awareness and remarketing,2024-08-04,2024-09-27,63043.15,7102343,83892,Discount-sensitive customers,Netherlands,Mobile,205,16578.78
+CMP-062,TikTok Ads | Sneaker Week | 062,TikTok Ads,New customer acquisition,2025-01-15,2025-03-11,33256.44,1233857,60908,Discount-sensitive customers,Germany,Mobile,309,24935.23
+CMP-063,Affiliate | Summer Sale | 063,Affiliate,Partner-led acquisition,2024-07-25,2024-08-28,9670.22,364516,15219,Discount-sensitive customers,Germany,Mobile,135,12265.62
+CMP-064,Google Search | VIP Retention | 064,Google Search,High-intent acquisition,2024-04-21,2024-06-30,47787.18,959120,47956,Young fashion buyers,Netherlands,Desktop,195,15827.82
+CMP-065,Affiliate | Beauty Boost | 065,Affiliate,Partner-led acquisition,2024-07-04,2024-09-30,30114.14,1208446,51826,VIP customers,France,Desktop,185,15195.12
+CMP-066,Google Search | Back to Work | 066,Google Search,High-intent acquisition,2024-09-29,2024-12-26,64275.17,911360,45568,New shoppers,Spain,Mobile,640,54295.0
+CMP-067,Email | Sneaker Week | 067,Email,Retention and lifecycle marketing,2025-07-25,2025-10-22,4594.31,1125200,56260,New shoppers,France,Desktop,489,43225.06
+CMP-068,Affiliate | Back to Work | 068,Affiliate,Partner-led acquisition,2024-06-22,2024-09-15,31209.74,1515308,40111,New shoppers,Italy,Desktop,233,20272.72
+CMP-069,Affiliate | VIP Retention | 069,Affiliate,Partner-led acquisition,2025-03-05,2025-05-19,32367.33,1362979,58448,Returning customers,Italy,Desktop,346,28091.53
+CMP-070,Organic Search | Sneaker Week | 070,Organic Search,SEO-led acquisition,2024-10-16,2024-11-06,6874.35,859700,42985,Premium shoppers,Italy,Mobile,405,34455.52
+CMP-071,Display Ads | Holiday Drop | 071,Display Ads,Awareness and remarketing,2024-09-27,2024-12-16,39489.76,4423971,49215,VIP customers,UK,Desktop,144,12740.67
+CMP-072,TikTok Ads | Premium Basics | 072,TikTok Ads,New customer acquisition,2025-07-19,2025-08-22,15392.46,591977,21637,Premium shoppers,UK,Mobile,77,6686.23
+CMP-073,Organic Search | Summer Sale | 073,Organic Search,SEO-led acquisition,2024-12-14,2025-01-13,7386.41,1192060,59603,VIP customers,Germany,Mobile,563,47930.32
+CMP-074,Meta Ads | VIP Retention | 074,Meta Ads,Prospecting and retargeting,2024-02-23,2024-03-19,34118.74,1249877,37957,VIP customers,France,Tablet,242,21094.55
+CMP-075,Email | Premium Basics | 075,Email,Retention and lifecycle marketing,2025-09-20,2025-12-02,5148.25,914380,45719,Returning customers,Netherlands,Mobile,352,30740.6
+CMP-076,Email | Back to Work | 076,Email,Retention and lifecycle marketing,2025-10-04,2025-12-15,5512.44,875800,43790,Returning customers,Germany,Desktop,573,48813.29
+CMP-077,Organic Search | Beauty Boost | 077,Organic Search,SEO-led acquisition,2024-01-02,2024-02-11,7272.66,755340,37767,VIP customers,Poland,Desktop,691,57620.27
+CMP-078,Meta Ads | Back to Work | 078,Meta Ads,Prospecting and retargeting,2024-06-15,2024-09-01,76153.24,2955123,97210,New shoppers,Italy,Tablet,503,42800.55
+CMP-079,Display Ads | Back to Work | 079,Display Ads,Awareness and remarketing,2025-05-24,2025-07-19,44246.46,9623941,68678,New shoppers,UK,Mobile,128,10275.05
+CMP-080,Affiliate | Sneaker Week | 080,Affiliate,Partner-led acquisition,2025-10-04,2025-11-25,22934.37,730568,26537,VIP customers,Germany,Desktop,313,26538.31
+CMP-081,Google Search | Back to Work | 081,Google Search,High-intent acquisition,2024-10-20,2024-11-24,32197.36,496800,24840,New shoppers,Netherlands,Mobile,405,36316.91
+CMP-082,TikTok Ads | Holiday Drop | 082,TikTok Ads,New customer acquisition,2024-03-13,2024-05-08,31580.08,1352240,67612,Premium shoppers,UK,Mobile,202,17201.81
+CMP-083,Email | Summer Sale | 083,Email,Retention and lifecycle marketing,2025-01-25,2025-03-03,4703.0,939980,46999,Premium shoppers,Germany,Mobile,1746,153630.2
+CMP-084,Google Search | Spring Edit | 084,Google Search,High-intent acquisition,2025-07-18,2025-09-26,25071.34,388708,16901,New shoppers,Germany,Mobile,371,31866.13
+CMP-085,Email | Sneaker Week | 085,Email,Retention and lifecycle marketing,2024-04-10,2024-05-08,5727.09,808680,40434,Premium shoppers,Germany,Desktop,625,57154.84
+CMP-086,Meta Ads | Summer Sale | 086,Meta Ads,Prospecting and retargeting,2024-12-14,2025-02-16,31764.61,1325576,40049,Premium shoppers,France,Mobile,402,33463.34
+CMP-087,Organic Search | Spring Edit | 087,Organic Search,SEO-led acquisition,2025-08-16,2025-11-13,5573.06,742260,37113,Discount-sensitive customers,Germany,Mobile,411,35623.11
+CMP-088,Google Search | Sneaker Week | 088,Google Search,High-intent acquisition,2025-02-19,2025-04-03,21671.09,495012,15124,New shoppers,Spain,Desktop,260,22374.47
+CMP-089,TikTok Ads | Beauty Boost | 089,TikTok Ads,New customer acquisition,2024-07-15,2024-09-25,24686.13,726200,36310,New shoppers,Italy,Mobile,154,12677.52
+CMP-090,Organic Search | Premium Basics | 090,Organic Search,SEO-led acquisition,2025-06-02,2025-07-28,10930.08,1225740,61287,Discount-sensitive customers,Germany,Desktop,235,19224.0
+CMP-091,Email | Holiday Drop | 091,Email,Retention and lifecycle marketing,2024-02-29,2024-05-21,5114.26,1058620,52931,Discount-sensitive customers,UK,Desktop,451,40355.97
+CMP-092,Meta Ads | Beauty Boost | 092,Meta Ads,Prospecting and retargeting,2025-09-29,2025-12-17,23089.63,537400,23035,Returning customers,Italy,Mobile,441,39563.91
+CMP-093,Meta Ads | Sneaker Week | 093,Meta Ads,Prospecting and retargeting,2024-12-08,2025-01-25,62657.25,1387641,59846,Premium shoppers,UK,Mobile,1209,102524.89
+CMP-094,Email | Beauty Boost | 094,Email,Retention and lifecycle marketing,2025-09-07,2025-09-28,7011.01,1117620,55881,Premium shoppers,UK,Desktop,479,43254.1
+CMP-095,Affiliate | Back to Work | 095,Affiliate,Partner-led acquisition,2024-11-02,2024-12-03,34961.84,1111396,53163,VIP customers,Spain,Desktop,346,29316.21
+CMP-096,Organic Search | VIP Retention | 096,Organic Search,SEO-led acquisition,2025-02-25,2025-04-13,6894.67,1009623,31433,Discount-sensitive customers,Germany,Desktop,66,5244.6
+CMP-097,Display Ads | Holiday Drop | 097,Display Ads,Awareness and remarketing,2025-04-01,2025-06-21,64693.46,8284820,124963,New shoppers,Poland,Mobile,173,15215.2
+CMP-098,Email | Premium Basics | 098,Email,Retention and lifecycle marketing,2025-06-09,2025-08-19,7679.27,1250380,62519,Discount-sensitive customers,UK,Mobile,1640,147110.06
+CMP-099,TikTok Ads | Beauty Boost | 099,TikTok Ads,New customer acquisition,2025-01-10,2025-04-06,30705.61,811980,40599,New shoppers,Germany,Desktop,292,23663.94
+CMP-100,Google Search | Premium Basics | 100,Google Search,High-intent acquisition,2024-01-31,2024-03-15,62880.22,1698182,56579,Premium shoppers,UK,Mobile,769,63905.15
+CMP-101,Display Ads | Spring Edit | 101,Display Ads,Awareness and remarketing,2025-09-29,2025-11-02,49232.69,8407670,100046,VIP customers,Poland,Desktop,92,7385.29
+CMP-102,Google Search | Back to Work | 102,Google Search,High-intent acquisition,2025-03-15,2025-05-09,23202.53,398633,17225,Premium shoppers,Netherlands,Tablet,48,3771.19
+CMP-103,Organic Search | Summer Sale | 103,Organic Search,SEO-led acquisition,2025-02-04,2025-05-04,10600.49,1466420,73321,Discount-sensitive customers,Germany,Desktop,220,18939.63
+CMP-104,TikTok Ads | Spring Edit | 104,TikTok Ads,New customer acquisition,2025-04-30,2025-07-03,33694.58,1119000,55950,Premium shoppers,France,Desktop,258,21372.76
+CMP-105,Meta Ads | Spring Edit | 105,Meta Ads,Prospecting and retargeting,2025-04-28,2025-06-08,44275.16,1327549,48674,Returning customers,Poland,Mobile,414,33408.36
+CMP-106,Meta Ads | Sneaker Week | 106,Meta Ads,Prospecting and retargeting,2024-06-01,2024-08-23,28023.74,1121721,32559,VIP customers,France,Mobile,273,23065.65
+CMP-107,Meta Ads | Back to Work | 107,Meta Ads,Prospecting and retargeting,2025-07-27,2025-10-05,73080.08,1732512,68314,Returning customers,Germany,Tablet,281,22928.34
+CMP-108,Email | Holiday Drop | 108,Email,Retention and lifecycle marketing,2024-02-18,2024-05-11,6874.72,1181100,59055,Discount-sensitive customers,France,Mobile,1855,163158.08
+CMP-109,TikTok Ads | Back to Work | 109,TikTok Ads,New customer acquisition,2024-08-22,2024-09-20,50089.99,1274000,63700,Discount-sensitive customers,Germany,Mobile,323,28083.34
+CMP-110,Google Search | Spring Edit | 110,Google Search,High-intent acquisition,2025-07-24,2025-08-16,23590.81,336660,16833,VIP customers,UK,Mobile,251,21273.16
+CMP-111,TikTok Ads | Beauty Boost | 111,TikTok Ads,New customer acquisition,2025-03-07,2025-04-10,51544.16,4322056,74185,New shoppers,Poland,Mobile,152,12164.79
+CMP-112,Organic Search | Sneaker Week | 112,Organic Search,SEO-led acquisition,2024-12-31,2025-01-24,5410.43,658520,32926,Young fashion buyers,Germany,Desktop,99,8649.78
+CMP-113,Google Search | VIP Retention | 113,Google Search,High-intent acquisition,2024-12-12,2025-02-01,48033.64,1054923,35810,New shoppers,France,Mobile,893,76791.78
+CMP-114,Google Search | Holiday Drop | 114,Google Search,High-intent acquisition,2024-10-10,2024-11-10,47717.29,679671,33981,Young fashion buyers,France,Desktop,377,33044.96
+CMP-115,Email | Spring Edit | 115,Email,Retention and lifecycle marketing,2025-03-05,2025-05-06,4651.32,715520,35776,Young fashion buyers,Netherlands,Mobile,446,38067.6
+CMP-116,TikTok Ads | Back to Work | 116,TikTok Ads,New customer acquisition,2025-10-07,2025-11-28,47699.51,1699949,77611,Premium shoppers,UK,Desktop,217,18286.87
+CMP-117,Organic Search | Back to Work | 117,Organic Search,SEO-led acquisition,2024-09-14,2024-11-02,7275.46,710320,35516,VIP customers,Italy,Mobile,415,35936.55
+CMP-118,Email | Summer Sale | 118,Email,Retention and lifecycle marketing,2025-03-30,2025-05-18,4412.37,734980,36749,Discount-sensitive customers,Italy,Mobile,1997,173636.57
+CMP-119,Affiliate | VIP Retention | 119,Affiliate,Partner-led acquisition,2025-08-02,2025-09-14,14340.87,820490,21890,Young fashion buyers,Germany,Mobile,153,12828.23
+CMP-120,Google Search | VIP Retention | 120,Google Search,High-intent acquisition,2025-05-15,2025-06-14,31325.48,459756,21866,Discount-sensitive customers,Italy,Tablet,1025,87727.43
