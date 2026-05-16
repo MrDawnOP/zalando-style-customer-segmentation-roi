@@ -1,64 +1,285 @@
+cat > web/index.html <<'HTML'
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Zalando-Style Marketing Analytics Dashboard</title>
   <style>
-    body { font-family: Arial, sans-serif; background: #f7f7fb; margin: 0; color: #111827; }
-    header { background: #111827; color: white; padding: 40px 8%; }
-    main { padding: 32px 8%; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(420px, 1fr)); gap: 24px; }
-    .card { background: white; padding: 20px; border-radius: 18px; box-shadow: 0 10px 25px rgba(0,0,0,0.08); }
-    img { width: 100%; border-radius: 12px; border: 1px solid #e5e7eb; }
-    a { color: #2563eb; font-weight: bold; }
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f7f7fb;
+      margin: 0;
+      color: #111827;
+    }
+
+    header {
+      background: #111827;
+      color: white;
+      padding: 42px 8%;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+
+    header p {
+      max-width: 950px;
+      color: #d1d5db;
+      line-height: 1.6;
+      font-size: 17px;
+    }
+
+    main {
+      padding: 32px 8%;
+    }
+
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+      margin-bottom: 36px;
+    }
+
+    .kpi-card {
+      background: white;
+      padding: 22px;
+      border-radius: 18px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.07);
+    }
+
+    .kpi-card h3 {
+      margin: 0 0 8px;
+      font-size: 13px;
+      color: #6b7280;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .kpi-card .value {
+      font-size: 30px;
+      font-weight: 700;
+    }
+
+    section {
+      margin-bottom: 48px;
+    }
+
+    section h2 {
+      font-size: 28px;
+      margin-bottom: 8px;
+    }
+
+    section p {
+      color: #4b5563;
+      line-height: 1.6;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(430px, 1fr));
+      gap: 24px;
+      margin-top: 24px;
+    }
+
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 18px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    }
+
+    .card h3 {
+      margin: 0 0 14px;
+      font-size: 18px;
+    }
+
+    img {
+      width: 100%;
+      border-radius: 12px;
+      border: 1px solid #e5e7eb;
+    }
+
+    .recommendations {
+      background: white;
+      padding: 26px;
+      border-radius: 18px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    }
+
+    li {
+      margin-bottom: 10px;
+      line-height: 1.5;
+    }
+
+    a {
+      color: #2563eb;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    footer {
+      padding: 28px 8%;
+      color: #6b7280;
+      font-size: 14px;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 28px;
+      }
+
+      .grid {
+        grid-template-columns: 1fr;
+      }
+    }
   </style>
 </head>
+
 <body>
   <header>
     <h1>Zalando-Style Customer Segmentation & Marketing ROI Analysis</h1>
-    <p>Fictional European fashion e-commerce analytics project using Python, SQL, RFM segmentation and marketing ROI analysis.</p>
+    <p>
+      A fictional European fashion e-commerce analytics project using synthetic data.
+      Built to demonstrate Python, SQL, marketing ROI analysis, RFM segmentation,
+      churn-risk classification, BI-ready reporting and executive recommendations.
+    </p>
   </header>
 
   <main>
-    <h2>Dashboard Visuals</h2>
-
-    <div class="grid">
-      <div class="card">
-        <h3>Monthly Revenue Trend</h3>
-        <img src="visuals/01_monthly_revenue_trend.png">
+    <div class="kpi-grid">
+      <div class="kpi-card">
+        <h3>Customers</h3>
+        <div class="value">10,000</div>
       </div>
-
-      <div class="card">
-        <h3>ROAS by Channel</h3>
-        <img src="visuals/02_roas_by_channel.png">
+      <div class="kpi-card">
+        <h3>Orders</h3>
+        <div class="value">50,000</div>
       </div>
-
-      <div class="card">
-        <h3>CPA by Channel</h3>
-        <img src="visuals/04_cpa_by_channel.png">
+      <div class="kpi-card">
+        <h3>Campaigns</h3>
+        <div class="value">120</div>
       </div>
-
-      <div class="card">
-        <h3>Revenue by Customer Segment</h3>
-        <img src="visuals/05_revenue_by_customer_segment.png">
-      </div>
-
-      <div class="card">
-        <h3>CLV by Segment</h3>
-        <img src="visuals/06_clv_by_segment.png">
-      </div>
-
-      <div class="card">
-        <h3>Churn Risk Distribution</h3>
-        <img src="visuals/07_churn_risk_distribution.png">
+      <div class="kpi-card">
+        <h3>Marketing Channels</h3>
+        <div class="value">7</div>
       </div>
     </div>
 
-    <p style="margin-top: 32px;">
-      <a href="https://github.com/MrDawnOP/zalando-style-customer-segmentation-roi" target="_blank">
-        View full GitHub repository
-      </a>
-    </p>
+    <section>
+      <h2>Executive Overview</h2>
+      <p>
+        This dashboard analyses revenue performance, marketing ROI, customer value,
+        churn risk and budget reallocation opportunities for a fictional Zalando-style
+        European fashion e-commerce company.
+      </p>
+
+      <div class="grid">
+        <div class="card">
+          <h3>1. Monthly Revenue Trend</h3>
+          <img src="visuals/01_monthly_revenue_trend.png" alt="Monthly Revenue Trend">
+        </div>
+
+        <div class="card">
+          <h3>2. Country-Level Revenue</h3>
+          <img src="visuals/10_country_level_revenue.png" alt="Country-Level Revenue">
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Marketing Performance</h2>
+      <p>
+        Marketing channels and campaigns are evaluated using ROAS, ROI, CPA,
+        CPC, CTR, conversion quality and revenue efficiency.
+      </p>
+
+      <div class="grid">
+        <div class="card">
+          <h3>3. ROAS by Marketing Channel</h3>
+          <img src="visuals/02_roas_by_channel.png" alt="ROAS by Channel">
+        </div>
+
+        <div class="card">
+          <h3>4. ROI by Campaign</h3>
+          <img src="visuals/03_roi_by_campaign.png" alt="ROI by Campaign">
+        </div>
+
+        <div class="card">
+          <h3>5. CPA by Channel</h3>
+          <img src="visuals/04_cpa_by_channel.png" alt="CPA by Channel">
+        </div>
+
+        <div class="card">
+          <h3>6. Marketing Spend vs Revenue</h3>
+          <img src="visuals/08_marketing_spend_vs_revenue.png" alt="Marketing Spend vs Revenue">
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Customer Segmentation</h2>
+      <p>
+        Customers were segmented using RFM logic and behavioural metrics including
+        recency, frequency, monetary value, discount dependency and return behaviour.
+      </p>
+
+      <div class="grid">
+        <div class="card">
+          <h3>7. Revenue by Customer Segment</h3>
+          <img src="visuals/05_revenue_by_customer_segment.png" alt="Revenue by Customer Segment">
+        </div>
+
+        <div class="card">
+          <h3>8. CLV by Segment</h3>
+          <img src="visuals/06_clv_by_segment.png" alt="CLV by Segment">
+        </div>
+
+        <div class="card">
+          <h3>9. Churn Risk Distribution</h3>
+          <img src="visuals/07_churn_risk_distribution.png" alt="Churn Risk Distribution">
+        </div>
+
+        <div class="card">
+          <h3>10. Product Category Performance</h3>
+          <img src="visuals/09_product_category_performance.png" alt="Product Category Performance">
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Business Recommendations</h2>
+      <div class="recommendations">
+        <ol>
+          <li>Increase investment in high-ROAS channels such as Email and Organic Search.</li>
+          <li>Reduce spend on campaigns with high CPA and weak conversion quality.</li>
+          <li>Create retention campaigns for At-Risk and Potential Loyalist customers.</li>
+          <li>Use personalised offers for Champions and Loyal Customers.</li>
+          <li>Reduce excessive discounting for customers already likely to purchase.</li>
+          <li>Improve return-rate monitoring for low-margin or high-return categories.</li>
+          <li>Build a monthly marketing performance dashboard for leadership reporting.</li>
+        </ol>
+      </div>
+    </section>
+
+    <section>
+      <h2>Project Repository</h2>
+      <p>
+        View the complete project including Python scripts, SQL queries, processed datasets,
+        reports and dashboard blueprint.
+      </p>
+      <p>
+        <a href="https://github.com/MrDawnOP/zalando-style-customer-segmentation-roi" target="_blank">
+          View GitHub Repository
+        </a>
+      </p>
+    </section>
   </main>
+
+  <footer>
+    Built with Python, Pandas, SQL-ready datasets, Matplotlib visuals and Vercel static hosting.
+  </footer>
 </body>
 </html>
+HTML
